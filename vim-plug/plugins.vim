@@ -18,8 +18,9 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'mattn/emmet-vim'
     Plug 'tpope/vim-fugitive'
     Plug 'justinmk/vim-sneak'
-    Plug 'mhinz/vim-startify'
     Plug 'ryanoasis/vim-devicons'
+    Plug 'preservim/nerdtree'
+    Plug 'voldikss/vim-floaterm'
 call plug#end()
 
 " Automatically install missing plugins on startup
