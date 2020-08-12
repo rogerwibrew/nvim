@@ -21,6 +21,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'ryanoasis/vim-devicons'
     Plug 'preservim/nerdtree'
     Plug 'voldikss/vim-floaterm'
+    Plug 'tpope/vim-commentary'
 call plug#end()
 
 " Automatically install missing plugins on startup

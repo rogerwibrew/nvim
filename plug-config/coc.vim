@@ -20,6 +20,8 @@ let g:coc_global_extensions = [
     \ 'coc-yank',
     \ 'coc-json',
     \ 'coc-marketplace',
+    \ 'coc-eslint',
+    \ 'coc-clangd'
     \ ]
 " TextEdit might fail if hidden is not set.
 set hidden

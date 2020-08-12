@@ -13,5 +13,6 @@
     "<cr>": ["expandable?", "expand", "open"],
     "v": "open:vsplit"
   },
-  "tsserver.npm": "/home/roger/.nvm/versions/node/v12.18.0/bin/npm"
+  "tsserver.npm": "/home/roger/.nvm/versions/node/v12.18.0/bin/npm",
+  "clangd.path": "clangd-10"
 }
